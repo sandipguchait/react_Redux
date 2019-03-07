@@ -5,7 +5,8 @@ const songReducer = () => {
 		{ title: "no promise", duration: "3:15" },
 		{ title: "Cold heart", duration: "4.20" },
 		{ title: "mountains", duration: "3.40" },
-		{ title: "vapor", duration: "1:40" }
+		{ title: "vapor", duration: "1:40" },
+		{ title: "the way", duration: "1:23" }
 	];
 };
 
